@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.51dd0598.chunk.css",
+    "main.js": "./static/js/main.8f864197.chunk.js",
+    "main.js.map": "./static/js/main.8f864197.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8b397891.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8b397891.js.map",
+    "static/js/2.59896e39.chunk.js": "./static/js/2.59896e39.chunk.js",
+    "static/js/2.59896e39.chunk.js.map": "./static/js/2.59896e39.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.89c0f5dc6443c13434a6e0308d690e01.js": "./precache-manifest.89c0f5dc6443c13434a6e0308d690e01.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.51dd0598.chunk.css.map": "./static/css/main.51dd0598.chunk.css.map",
+    "static/js/2.59896e39.chunk.js.LICENSE.txt": "./static/js/2.59896e39.chunk.js.LICENSE.txt",
+    "static/media/aaa-california-logo.svg": "./static/media/aaa-california-logo.03ad4ec4.svg",
+    "static/media/main.scss": "./static/media/group-13.4b358285.png",
+    "static/media/original@3x.png": "./static/media/original@3x.82da5af4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b397891.js",
+    "static/js/2.59896e39.chunk.js",
+    "static/css/main.51dd0598.chunk.css",
+    "static/js/main.8f864197.chunk.js"
+  ]
+}
